@@ -1,4 +1,7 @@
 # smart-contract-secury-resources
 
 ### THE DAO Attack
-[Coindesk article](https://www.coindesk.com/understanding-dao-hack-journalists/)
+[DAO Attack Coindesk Article](https://www.coindesk.com/understanding-dao-hack-journalists/)
+
+### THE Parity Wallet Hack
+[Parity Hack Coindesk Artickle](https://www.coindesk.com/30-million-ether-reported-stolen-parity-wallet-breach/)
