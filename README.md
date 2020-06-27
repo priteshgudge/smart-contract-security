@@ -17,3 +17,6 @@
 [Consensys Best Practices](https://consensys.github.io/smart-contract-best-practices/)
 
 [Consensys General Philosophy](https://consensys.github.io/smart-contract-best-practices/general_philosophy/)
+
+### Research Resources and Whitepapers
+[A survey of attacks on Ethereum Smart Contracts](https://eprint.iacr.org/2016/1007.pdf)
