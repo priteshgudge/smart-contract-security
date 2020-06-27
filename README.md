@@ -12,3 +12,8 @@
 [Common Patterns](https://solidity.readthedocs.io/en/latest/common-patterns.html)
 
 [Style Guide](https://solidity.readthedocs.io/en/latest/style-guide.html)
+
+### Ethereum Smart Contract Considerations
+[Consensys Best Practices](https://consensys.github.io/smart-contract-best-practices/)
+
+[Consensys General Philosophy](https://consensys.github.io/smart-contract-best-practices/general_philosophy/)
