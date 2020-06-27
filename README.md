@@ -42,4 +42,5 @@
 
 ### Security Audits
 [CoinFabrik](https://blog.coinfabrik.com/category/smart-contracts/smart-contract-audit-smart-contracts/)
+
 [Zeppelin Audit](https://zeppelin.solutions/security-audits/)
