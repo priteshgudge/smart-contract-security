@@ -39,3 +39,7 @@
 [Mocha JS](https://mochajs.org/)
 
 [OPenZeppelin Access control](https://docs.openzeppelin.com/contracts/3.x/access-control)
+
+### Security Audits
+[CoinFabrik](https://blog.coinfabrik.com/category/smart-contracts/smart-contract-audit-smart-contracts/)
+[Zeppelin Audit](https://zeppelin.solutions/security-audits/)
