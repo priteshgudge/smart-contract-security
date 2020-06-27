@@ -29,7 +29,7 @@
 
 [Learnings from ETHSecurity Community ](https://medium.com/coinmonks/learnings-from-the-ethsecurity-community-57431ae0ed5e)
 
-[(Not So) Smart Contracts -(https://github.com/trailofbits/not-so-smart-contracts)
+[(Not So) Smart Contracts]-(https://github.com/trailofbits/not-so-smart-contracts)
 
 ### Tooling
 [Ethereum Tools](https://ethereum-contract-security-techniques-and-tips.readthedocs.io/en/latest/security_tools/)
