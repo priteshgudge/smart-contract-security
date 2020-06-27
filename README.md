@@ -44,3 +44,7 @@
 [CoinFabrik](https://blog.coinfabrik.com/category/smart-contracts/smart-contract-audit-smart-contracts/)
 
 [Zeppelin Audit](https://zeppelin.solutions/security-audits/)
+
+[Quillhash](https://audits.quillhash.com/smart-contract-audit)
+
+[Bug Bounty](https://bounty.ethereum.org/)
