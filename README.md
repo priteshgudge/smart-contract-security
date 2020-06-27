@@ -8,3 +8,5 @@
 
 ### Solidity Security Considerations
 [Solidity Security Docs](https://solidity.readthedocs.io/en/latest/security-considerations.html)
+[Common Patterns](https://solidity.readthedocs.io/en/latest/common-patterns.html)
+[Style Guide](https://solidity.readthedocs.io/en/latest/style-guide.html)
