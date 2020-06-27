@@ -1,4 +1,4 @@
-# smart-contract-secury-resources
+# smart-contract-security-resources
 
 ### THE DAO Attack
 [DAO Attack Coindesk Article](https://www.coindesk.com/understanding-dao-hack-journalists/)
@@ -38,4 +38,4 @@
 
 [Mocha JS](https://mochajs.org/)
 
-[OPenZeppelin](https://openzeppelin.org/api/docs/learn-about-access-control.html)
+[OPenZeppelin Access control](https://docs.openzeppelin.com/contracts/3.x/access-control)
